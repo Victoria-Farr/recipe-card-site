@@ -1,3 +1,4 @@
+![Recipe Card Collection Screenshot Banner](img/recipe-readme-header.png)
 # Recipe Card Collection site
 
 In this project, several recipe cards (which include ingredients, directions, an image, and prep + cook times) are styled using CSS for a fun mini website using semantic HTML5.
