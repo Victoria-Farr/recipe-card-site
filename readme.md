@@ -3,11 +3,11 @@
 
 In this project, several recipe cards (which include ingredients, directions, an image, and prep + cook times) are styled using CSS for a fun mini website using semantic HTML5.
 
+It can be viewed here: https://victoria-farr.github.io/recipe-card-site/
+
 ## Prerequisites
 
 - A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
-
-This is a student project for display only, thanks!
 
 ```
 It was created using Skillcrush.com coursework: <https://github.com/skillcrush>
